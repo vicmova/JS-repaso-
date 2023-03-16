@@ -131,7 +131,7 @@ function cuentaLetras( pidePalabra ){
     let i;
     let letrasContadas;
 
-    for( i = 0; i < pidePalabra.length; i++ ){
+    for( i = 0; i < pidePalabra; i++ ){
 
         cont++;
         
