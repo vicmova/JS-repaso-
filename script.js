@@ -139,10 +139,8 @@ function cuentaLetras( pidePalabra ){
 
     letrasContadas = cont;
 
-    //console.log(letrasContadas);
     return letrasContadas;
-    //console.log(letrasContadas);
-
+   
 }
 
 const respuesta = cuentaLetras( pidePalabra );
